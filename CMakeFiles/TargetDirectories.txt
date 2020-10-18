@@ -1,4 +1,0 @@
-/home/runner/work/CommsDSL-Specification/build/CMakeFiles/rebuild_cache.dir
-/home/runner/work/CommsDSL-Specification/build/CMakeFiles/site.dir
-/home/runner/work/CommsDSL-Specification/build/CMakeFiles/edit_cache.dir
-/home/runner/work/CommsDSL-Specification/build/CMakeFiles/pdf.dir
